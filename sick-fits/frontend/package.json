@@ -2,7 +2,7 @@
   "name": "sick-fits-frontend",
   "version": "2.0.0",
   "description": "Sick Fits! An example React, GraphQL, Next and Apollo",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "dev": "next -p 7777",
     "build": "next build",
