@@ -4,6 +4,7 @@ import { PAGINATION_QUERY } from '../components/Pagination';
 // seed it so we get consistent results
 casual.seed(777);
 
+// It's just a function that returns a JS object.
 const fakeItem = () => ({
   // __typename: 'Item',
   id: 'abc123',
